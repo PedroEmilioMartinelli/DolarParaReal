@@ -1,0 +1,7 @@
+C:\Users\marti\Softwares\C#\Cotaç]aoDolar\Cotaç]aoDolar\bin\Debug\Cotaç]aoDolar.exe.config
+C:\Users\marti\Softwares\C#\Cotaç]aoDolar\Cotaç]aoDolar\bin\Debug\Cotaç]aoDolar.exe
+C:\Users\marti\Softwares\C#\Cotaç]aoDolar\Cotaç]aoDolar\bin\Debug\Cotaç]aoDolar.pdb
+C:\Users\marti\Softwares\C#\Cotaç]aoDolar\Cotaç]aoDolar\obj\Debug\Cotaç]aoDolar.csproj.AssemblyReference.cache
+C:\Users\marti\Softwares\C#\Cotaç]aoDolar\Cotaç]aoDolar\obj\Debug\Cotaç]aoDolar.csproj.CoreCompileInputs.cache
+C:\Users\marti\Softwares\C#\Cotaç]aoDolar\Cotaç]aoDolar\obj\Debug\Cotaç]aoDolar.exe
+C:\Users\marti\Softwares\C#\Cotaç]aoDolar\Cotaç]aoDolar\obj\Debug\Cotaç]aoDolar.pdb
